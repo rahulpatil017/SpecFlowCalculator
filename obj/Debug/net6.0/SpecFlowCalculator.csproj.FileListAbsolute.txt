@@ -1,0 +1,15 @@
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.exe
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.deps.json
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.runtimeconfig.json
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.dll
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\github\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.pdb
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.dll
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
+C:\github\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.genruntimeconfig.cache
